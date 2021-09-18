@@ -1,0 +1,16 @@
+$body-color: green;
+
+// @font-face{
+//     font-family: 'myFont';
+//     src: url('./source/iconfont.ttf') format('iconfont');
+//     font-weight: 600;
+//     font-style: normal;
+// }
+.hello{
+    color: $body-color;
+    display: flex;
+    align-items: center;
+    background: url('./source/ces.png') no-repeat;
+    height: 100px;
+    // font-family: 'Myfont';
+}
